@@ -20,10 +20,10 @@ Lets us look at the various segments of the dashboard and how they were created.
 ### Sales Report
 + The sales report represents the total units sold and the total sales of each region. Being the Central, East, South and West respectively.
 + Derived using the pivot table from the dataDashboard sheet.
-![](images/TotalRegionSales.PNG) ![](images%5CdataTotalRegionSales.PNG)
+![](images/TotalRegionSales.PNG) ![](images/dataTotalRegionSales.PNG)
 
 + Units sold by each region. <br>
-![](images/TotalUnits.PNG)![](images%5CdataTotalUnits.PNG)
+![](images/TotalUnits.PNG)![](images/dataTotalUnits.PNG)
 ### Segments
 + This displays the total sales made all year and the total amount of units sold. <br>
 ![](images/VBAMenu.PNG)
